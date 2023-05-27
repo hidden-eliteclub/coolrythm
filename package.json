@@ -1,11 +1,14 @@
 {
-  "name": "rhythm",
+  "name": "coolrythm",
   "version": "1.0.0",
-  "description": "",
+  "description": ":grinning:",
   "main": "index.js",
   "scripts": {
-    "test": "http-server -c -1"
+    "run": "serve"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
 }

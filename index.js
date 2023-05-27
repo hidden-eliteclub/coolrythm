@@ -5,7 +5,7 @@ let dkey;
 let fkey;
 let jkey;
 let kkey;
-
+// :smile::grinning: 
 let notes = []; // list of notes on screen
 
 // Audio
@@ -15,7 +15,7 @@ let hitSound;
 let missSound;
 let applauseSound;
 
-// Needed Document Elements
+ // Needed Document Elements
 let gameAreaElement;
 let scoreElement;
 let accuracyElement;
