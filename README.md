@@ -1,5 +1,5 @@
-# Rhythm Game
-~~I don't have a name for it so a generic name will do for now.~~
+# Cool 😄 Rythm Game
+Enjoy our Game.😂
 
 ## Notes About Device Support
 Mobile and other keyboard-less devices are completely unsupported.
@@ -19,13 +19,13 @@ Play Here! https://zach1502.github.io/Rhythm-Game/
 ## Want to Help Develop?
 Thank You for the interest! Here's how to do it:
 
-`git clone https://github.com/zach1502/Rhythm-Game.git`
+`git clone https://github.com/hidden-eliteclub/coolrythm.git`
 
-`cd Rhythm-Game`
+`cd coolrythm`
 
 `npm install`
 
-`npm test`
+`npm start`
 
 Then go to one of the IP addresses listed in the console.
 
@@ -71,11 +71,3 @@ Nothing special about them, except that they're rainbow.
 This will signal the end of the song.
 An applause will play.
 
-## Credits
-Hit and Miss Sounds are from Osu!
-
-Demo Song is Il Vento d'Oro by Yugo Kanno
-
-Applause Sound is from https://www.youtube.com/watch?v=DpQpf71sY6I
-
-Assets used under Fair Dealing for Educational and Private Study purposes
